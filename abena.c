@@ -9,6 +9,6 @@ abena is a girl
 */
 int main(void)
 {
-  for (s = 0; s < size; s++)
+  for (s = 1; s < size; s++)
     return (0);
 }
